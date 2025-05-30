@@ -15,7 +15,7 @@ Welcome to the official repository for **SketchUp**! Here you can find all the n
 
 ### 🖼 Preview
 
-**Project Workspace UI**  
+**Example**  
 ![example](https://github.com/user-attachments/assets/fe89729c-1e10-4ed9-ab95-19b773a31bd6)
 *Clean modeling interface with support for 2D/3D hybrid*
 
